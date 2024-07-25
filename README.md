@@ -6,6 +6,6 @@ This repository contains code to compute the finitely many pairs `(N,k)` such th
 - `paper.pdf` is the paper.
 - `compute_Avle1.sage` is the code to compute the finitely many pairs `(N,k)` such that `Av_m(N,k) <= 1`
 - `output.txt` is the output of `compute_Avle1.sage`
-- `compute_conj.sage` is code to compute the sizes of Fourier coefficients of newforms. This is to verify that the conjecture stated in the paper looks reasonable. 
+- `check_conj.sage` is code to compute the sizes of Fourier coefficients of newforms. This is to verify that the conjecture stated in the paper looks reasonable. 
 
 
